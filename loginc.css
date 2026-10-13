@@ -1,0 +1,65 @@
+.login{
+    padding: 200px;
+}
+.login-box{
+    width: 320px ;
+    padding: 40px ;
+    margin: auto;
+    border-radius: 20px;
+     box-shadow: 8px 8px 16px #a3b1c6,
+     -8px -8px 16px #ffff;
+     text-align: center;
+}
+.login-box h2{
+    margin-bottom: 20px;
+    color: #333;
+}
+.input-fied{
+    position: relative;
+    margin-bottom: 20px;
+}
+.input-fied input{
+    width: 100%;
+    border: none;
+    outline: none;
+    border-radius: 12px;
+    padding: 12px 15px;
+    background: #e0e5ec;
+    color: #333;
+    font-size: 0.95 rem;
+     box-shadow: inset 8px 8px 16px #a3b1c6,
+      inset -8px -8px 16px #ffff;
+
+}
+button{
+    width: 100%;
+    padding: 12px;
+    border: none;
+    border-radius: 25px;
+    background: #e0e5ec;
+    color: #333;
+    font-size: 1 rem;
+    box-shadow: 4px 4px 8px #a3b1c6,
+     -4px -4px 8px #ffff;
+    cursor: pointer;
+    font-weight: bold;
+}
+button:hover{
+     box-shadow: inset 4px 4px 8px #a3b1c6,
+      inset -4px -4px 8px #ffff;
+}
+.extra-link{
+    margin-top: 15px;
+    font-size: 0.85rem;
+}
+.extra-link a{
+    text-decoration: none;
+    color: #333;
+}
+.extra-link a:hover{
+    text-decoration: underline;
+}
+.input-fied i{
+    margin-left: 250px;
+    margin-bottom: 10px;
+}

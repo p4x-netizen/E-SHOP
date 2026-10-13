@@ -1,0 +1,199 @@
+.shopping{
+    padding-top: 0px;
+    float: right;
+    position: fixed;
+   padding-left: 50px;
+    border: none;
+    border-radius: 25px;
+   
+}
+.icon{
+    background: #e0e5ec;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    border: none;
+    border-radius: 12px;
+    padding: 8px 12px;
+    box-shadow: 8px 8px 16px #a3b1c6,
+    -8px -8px 16px #ffff;
+
+}
+.cart-items{
+    background: #e0e5ec;
+    border: none;
+    border-radius: 20px;
+    padding: 12px 15px;
+    height: auto;
+    box-shadow: 4px 4px 8px #a3b1c6,
+    -4px -4px 8px #ffff;
+
+}
+.icon i{
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    padding-top: 5px;
+    padding: 8px 12px;
+    border-radius: 12px;
+    color: #333;
+}
+.icon h2{
+    color: #333;
+}
+.btn{
+    margin-top: 10px;
+    border: none;
+    background: #e0e5ec;
+    padding: 8px 12px;
+    border-radius: 12px;
+    box-shadow: inset 4px 4px 8px #a3b1c6,
+     inset -4px -4px 8px #ffff;
+     width: 100px;
+     cursor: pointer;
+}
+.btn h3{
+    color: #333;
+    cursor: pointer;
+}
+.content{
+    margin-top: 20px;
+    border: none;
+    background: #e0e5ec;
+    border-radius: 12px;
+    padding: 12px 15px;
+    box-shadow: 8px 8px 16px #a3b1c6,
+    -8px -8px 16px #ffff;
+
+}
+.shoes{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 8px; 
+}
+.shoes img{
+    width: 50px;
+    border-radius: 50%;
+}
+.shoes h6{
+    color: #333;
+}
+.shoes h4{
+    color: #333;
+}
+.sufuria{
+      display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 8px; 
+}
+.sufuria img{
+    width: 50px;
+    border-radius: 50%;
+}
+.sufuria h6{
+    color: #333;
+}
+.sufuria h4{
+    color: #333;
+    margin-left: 18px;
+}
+.phone{
+      display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 8px; 
+}
+.phone img{
+    width: 50px;
+    border-radius: 50%;
+}
+.phone h6{
+    color: #333;
+    margin-left: 5px;
+   
+}
+.phone h4{
+    color: #333;
+    margin-left: 15px;
+}
+.sweater{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 8px; 
+}
+.sweater img{
+    width: 50px;
+    border-radius: 50%;
+}
+.sweater h6{
+    color: #333;
+}
+.sweater h4{
+    color: #333;
+}
+.total{
+    margin-top: 20px;
+    padding: 12px 15px;
+    border: none;
+    outline: none;
+    border-radius: 15px;
+    background: #e0e5ec;
+  
+
+
+}
+.sub-total{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 7px;
+}
+.sub-total h3{
+    color: #333;
+}
+.shipping{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 7px;
+}
+.shipping h3{
+    color: #333;
+}
+.price{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 7px;
+}
+.price h3{
+    color: #333;
+}
+.checkout-btn{
+    margin-top: 20px;
+    width: 100%;
+    height: 40px;
+    border: none;
+    outline: none;
+    padding: 8px 12px;
+    border-radius: 25px;
+    background: #e0e5ec;
+    box-shadow: 4px 4px 8px #a3b1c6,
+    -4px -4px 8px #ffff;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333;
+
+}
+.checkout-btn:hover{
+      box-shadow:  inset 4px 4px 8px #a3b1c6,
+    inset -4px -4px 8px #ffff;
+
+}
+.checkout-btn a{
+    text-decoration: none;
+    color: #333;
+}
